@@ -23,3 +23,17 @@
    Formulas-> Insert Function -> choose appropriate funcion
 
    ![image](https://github.com/user-attachments/assets/c22b5820-2aa8-4a94-800e-f9cb3218014e)
+
+## Chart
+Insert -> Browse Charts
+add, remove, change Chart Elements
+
+![image](https://github.com/user-attachments/assets/c266e038-b46f-498f-a5ef-10e4cbb46fc8)
+
+Adjusting Chart
+Chart Design and Format
+
+## Trend Analysis
+Insert -> Sparklines
+
+![image](https://github.com/user-attachments/assets/73bff703-f0ea-4f8d-9ac0-fd1952f1b7dd)
