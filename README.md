@@ -37,3 +37,41 @@ Chart Design and Format
 Insert -> Sparklines
 
 ![image](https://github.com/user-attachments/assets/73bff703-f0ea-4f8d-9ac0-fd1952f1b7dd)
+
+## Pivot Table
+Insert-> Pivot Table
+
+![image](https://github.com/user-attachments/assets/057c4e12-e706-4282-bed7-a0afe4a944ba)
+
+## Pivot Chart
+Insert->Pivot Chart
+Pivot Chart Analyze, Design, Format   Using these
+
+![image](https://github.com/user-attachments/assets/84e6532e-f9e3-4352-8db1-3be8ac017c61)
+
+## Advanced Pivot Tables
+add more data in Table, refresh pivot table, update data 
+
+## Calculated Field
+
+![image](https://github.com/user-attachments/assets/682c375c-74af-428d-89f8-80db86d4952a)
+
+insert formula as you required
+
+![image](https://github.com/user-attachments/assets/4e188a2e-f35d-420b-ba5f-3aebfab0aea9)
+
+## Timeline
+PivoitTableAnalyze -> Insert Timeline
+
+![image](https://github.com/user-attachments/assets/3d675f24-6f1c-4870-bd7b-bfba06527ce3)
+
+## Report Filter
+
+![image](https://github.com/user-attachments/assets/c2b570d0-6212-475a-9f2f-abd53596a016)
+
+## Pivot Table Layout
+
+![image](https://github.com/user-attachments/assets/ec82b03c-37b3-4ea8-b890-ec8016b40917)
+
+You can change pivot table layout, subtotal and grand total
+
